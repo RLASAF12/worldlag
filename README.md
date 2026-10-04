@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/worldlag) (folder `worldlag/`, full history preserved). Archived 2026-10-04.
+
 # WorldLag — Agent Failure Series #9
 
 > **The agent read the world at T=0. The world changed at T=3. The agent acted confidently at T=10 — on a reality that no longer exists.**
